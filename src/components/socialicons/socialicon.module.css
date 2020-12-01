@@ -1,0 +1,9 @@
+a {
+  text-decoration: none;
+}
+.socialContainer i {
+  color: black;
+}
+.socialContainer i:hover {
+  color: #393e46;
+}
